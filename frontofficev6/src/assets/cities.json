@@ -1,0 +1,57 @@
+[
+    {
+        "city": "Tunis",
+        "admin": "Tunis",
+        "country": "Tunisia",
+        "population_proper": "602560",
+        "iso2": "TN",
+        "capital": "Yes",
+        "lat": "36.806112",
+        "lng": "10.171078",
+        "population": "602560"
+    },
+    {
+        "city": "Marsa",
+        "admin": "Marsa",
+        "country": "Tunisia",
+        "population_proper": "",
+        "iso2": "TN",
+        "capital": "No",
+        "lat": "36.885497",
+        "lng": "10.325048",
+        "population": ""
+    },
+    {
+        "city": "ESPRIT Ecole Supérieure Privée d'Ingénierie et de Technologies",
+        "admin": "ESPRIT Ecole Supérieure Privée d'Ingénierie et de Technologies",
+        "country": "Ariana ,Tunisia",
+        "population_proper": "",
+        "iso2": "TN",
+        "capital": "No",
+        "lat": "36.899276596357524",
+        "lng": "10.189262945712127",
+        "population": ""
+    },
+    {
+        "city": "Esprit La Charguia II",
+        "admin": "2035",
+        "country": "Tunisia",
+        "population_proper": "",
+        "iso2": "TN",
+        "capital": "No",
+        "lat": "36.853741792292766",
+        "lng": "10.207466034028132",
+        "population": ""
+    },
+    {
+        "city": "Ecole Supérieur Privée d'Ingénieur de Monastir - ESPRIM",
+        "admin": "Monastir",
+        "country": "Tunisia",
+        "population_proper": "",
+        "iso2": "TN",
+        "capital": "No",
+        "lat": "35.765158414244276",
+        "lng": "10.809014578726325",
+        "population": ""
+    }
+]
